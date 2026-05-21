@@ -1,0 +1,30 @@
+# Keil MDK build output
+mdk/Objects/
+mdk/Listings/
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.htm
+*.axf
+*.hex
+*.bin
+*.elf
+*.lnp
+*.dep
+
+# Keil user/workspace state
+*.uvguix.*
+*.uvgui.*
+*.uvoptx.bak
+
+# OS and NAS metadata
+@eaDir/
+Thumbs.db
+.DS_Store
+
+# Local notes and temporary files
+*.bak
+*.tmp
+新建文本文档.txt
