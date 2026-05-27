@@ -1,0 +1,28 @@
+# Keil MDK build output
+mdk/Objects/
+mdk/Listings/
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.htm
+*.axf
+*.hex
+*.bin
+*.elf
+*.lnp
+*.dep
+
+# Keil user/workspace state
+*.uvguix.*
+*.uvgui.*
+*.uvoptx.bak
+
+# Editor and OS local files
+.vscode/
+@eaDir/
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
